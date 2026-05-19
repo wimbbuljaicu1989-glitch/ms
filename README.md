@@ -5,6 +5,6 @@ fs
 s
 d
 ew
-fs
+fswr
 d
 s
