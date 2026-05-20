@@ -4,7 +4,7 @@ fds
 fs
 s
 dD
-ew
+ewA
 fswr
 dE
 sewDA
